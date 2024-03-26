@@ -9,6 +9,10 @@ Prefer to create a sub domain and install the Sveltekit-wp-theme there. [The the
 
 You can also run the theme locally but install this plugin to your WP site.
 
+## Screenshot
+![Screenshot 2024-03-26 at 17 14 10](https://github.com/Tdude/site-sections/assets/969830/359718f6-a652-4d53-bc1a-f3b2f0246f26)
+
+
 ## Contact
 
 X-Twitter handle - [@tibbedude](https://twitter.com/Tibbedude)
