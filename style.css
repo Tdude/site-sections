@@ -1,0 +1,45 @@
+/* style.css */
+.site-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+.site-section h2 {
+    margin-top: 0;
+}
+
+.site-section .section-content {
+    margin-top: 10px;
+}
+
+.site-section .cta-link {
+    display: inline-block;
+    width: auto;
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: #0073aa;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+fieldset {
+    display: inline-block;
+    margin: 1em;
+}
+
+label {
+    margin: 1em 0 0.5em 0;
+    display: block;
+}
+
+
+.ss-meta-box div:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.ss-meta-box div:nth-child(even) {
+    background-color: #fff;
+}
