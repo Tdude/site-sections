@@ -17,7 +17,7 @@ You can also run the theme locally but install this plugin to your WP site.
 
 X-Twitter handle - [@tibbedude](https://twitter.com/Tibbedude)
 
-Project Link: [https://github.com/Tdude/rollsm](https://github.com/Tdude/site-sections)
+Project Link: [https://github.com/Tdude/site-sections](https://github.com/Tdude/site-sections)
 
 
 ## License
